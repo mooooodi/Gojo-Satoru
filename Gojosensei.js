@@ -3485,14 +3485,14 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
                     title: `「 مرحبا 👋🏻  」◣
-		    「 معك بوت غوجو 🤗 」◣
+		    「 معك بوت مودي 🤗 」◣
 		    「 افضل بوت عربي 」◣
 
  「 رابط شرح كيف تصنع بوت عربي طريقة سهله راقب وتعلم. ولاتنسى الاشتراك بالقناة」◣
-		    「https://youtu.be/MBPIx3f-VIA」◣
+		    「https://chat.whatsapp.com/GwDY8O0maBQJTpx5PbIRnm」◣
 		    「 اتمنى ان تعملو اشتراك للقناة وتنشروها اذا تقدرو عشان ينتشر المقطع كمان والكل يستفيد وجزاه الله خير الي يشترك 💖🤗」◣                 
  「 رابط فرع التعليم على البوت」◣
-		    「https://chat.whatsapp.com/Gb62eN2S5yI9mhfdn6Ma4z」◣
+		    「https://chat.whatsapp.com/GwDY8O0maBQJTpx5PbIRnm」◣
 		    「 الي محتاج شروحات ينضم 」◣`,
                     description: `「 اختر قائمة من فضلك 」◣`,
                     buttonText: "「 القائمة 」◣",
@@ -3592,7 +3592,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "المملكة",
 								"rows": [
 									{
-										"title": "قائمة استمارات مملكة غولد",
+										"title": "قائمة استمارات مملكة مودي",
 										"description": ".17.",
 										"rowId": `${prefix}anon`
 									}
@@ -3602,7 +3602,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "نبذة",
 								"rows": [
 									{
-										"title": "تاريخ مملكة غولد",
+										"title": "تاريخ مملكة مودي",
 										"description": ".18.",
 										"rowId": `${prefix}tqtt`
 									}
@@ -3622,12 +3622,12 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             case 'التسجhgjيل': case 'التسجيل': {
                 reply(`「 الفرع الخاص ل التعليم على البوت 」◣
 
-「 _https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3_ 」◣
+「 _https://chat.whatsapp.com/GwDY8O0maBQJTpx5PbIRnm_ 」◣
 
 「 نرحب بالجميع. 」◣`)
             }
             break
-case '9807786789678': {
+case '249909807811': {
   	anu = `
 ┏━「 *${botname}* 」━━⭓ 
 ┃╔══☯︎「 MAIN 」☯︎
